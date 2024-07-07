@@ -1,0 +1,116 @@
+.title {
+    font-family: Lucida Sans Unicode;
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bold;
+    color: #6E07F3;
+}
+
+.sub-title {
+    font-family: Lucida Sans Unicode;
+    text-align: center;
+    font-size: large;
+}
+
+.avtar1 {
+    display: block;
+    margin: 0 auto;
+}
+
+.avtar2 {
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+    height: auto;
+    padding-top: 70px;
+}
+
+.intro {
+    text-align: center;
+    background-color: #6E07F3;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-size: x-large;
+    font-family: Lucida Sans Unicode;
+    border-radius: 10px;
+}
+
+.icon {
+    width: 18rem;
+    margin-right: 20px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    border-bottom: 5px solid #6E07F3;
+    border-top: 5px solid #6E07F3;
+}
+
+.card_image {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.sub_heading-2 {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.HorizontalMarque {
+    margin-top: 50px;
+    border-left: 5px solid #6E07F3;
+    border-radius: 5px;
+}
+
+.marque_images {
+    width: 100px;
+    height: auto;
+    margin: 20px;
+}
+
+.recent_work {
+    margin-top: 50px;
+}
+
+.work_images1 {
+    background-image: url('images/taffin.png');
+    background-size: cover;
+    height: 300px;
+    color: white;
+}
+
+.work_images2 {
+    background-image: url('images/ewaste.png');
+    background-size: cover;
+    height: 300px;
+    color: white;
+}
+
+.work_images3 {
+    background-image: url('images/assistant.png');
+    background-size: cover;
+    height: 300px;
+    color: white;
+}
+
+.work_images4 {
+    background-image: url('images/course.png');
+    background-size: cover;
+    height: 300px;
+    color: white;
+}
+
+.work_card {
+    position: relative;
+}
+
+.work_btn {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+}
