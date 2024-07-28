@@ -3,6 +3,7 @@ import './Style.css'
 import Cards from './cards';
 import HorizontalMarque from './marque';
 import RecentWork from './RecentWork';
+import ContactForm from './ContactForm';
 export default function ContentSection() {
     return (
         <>
@@ -19,11 +20,12 @@ export default function ContentSection() {
                 <Cards />
             </div>
             <div className="container">
-               <HorizontalMarque/>
+                <HorizontalMarque />
             </div>
             <div className="container">
-               <RecentWork/>
+                <RecentWork />
             </div>
+            <ContactForm />
         </>
     )
 }
